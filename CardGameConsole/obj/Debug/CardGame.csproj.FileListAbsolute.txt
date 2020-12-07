@@ -1,0 +1,12 @@
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\bin\Debug\CardGameConsole.exe
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\bin\Debug\CardGameConsole.pdb
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\obj\Debug\CardGameConsole.exe
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\Card-Game-master\CardGameConsole\obj\Debug\CardGameConsole.pdb
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\bin\Debug\CardGameConsole.exe
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\bin\Debug\CardGameConsole.pdb
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\obj\Debug\CardGameConsole.exe
+C:\Users\PrincePreeti\Desktop\InterviewQuestions\CardGame_Prince\CardGameConsole\obj\Debug\CardGameConsole.pdb
